@@ -5,7 +5,7 @@ c = 0
 print(a)
 # while c <= range1:
 #     c = a + b
-#     print(a)
+#     print(b)
 #     a = b
 #     b = c
 for c in range(range1):
